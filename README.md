@@ -1,4 +1,4 @@
-# istruzioni informatiche
+ # istruzioni informatiche
 https://opencoreeba-jpg.github.io/computer-assistenza-online/
 # richieste di acquisto programmi
 n.tel: +39 350 045 0934
@@ -35,4 +35,5 @@ n.tel: +39 350 045 0934
 	•	Fai gli aggiornamenti.
 	•	Reinstalla i tuoi programmi.
 	•	Ripristina i tuoi file salvati
-
+tel per informazioni non specificate nel sito 
++1 (800) 242-8478
